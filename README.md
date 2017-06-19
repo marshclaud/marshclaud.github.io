@@ -1,0 +1,2 @@
+# sstech
+static website
