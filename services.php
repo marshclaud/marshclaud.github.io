@@ -11,12 +11,12 @@
 
         <div id="topnav">
             <ul class="nav">
-                <li><a href="marshclaud.github.io/index.html">Home</a></li>
-                <li><a class="active" href="marshclaud.github.io/services.html">Services</a></li>
-                <li><a href="marshclaud.github.io/solution.html">Solutions</a></li>
-                <li><a href="marshclaud.github.io/turnkey.html">Turnkey</a></li>
-                <li><a href="marshclaud.github.io/about.html">About Us</a></li>
-                <li style="float:right"><a href="marshclaud.github.io/contact.html">Contact</a></li>
+                <li><a href="/index.html">Home</a></li>
+                <li><a class="active" href="/services.html">Services</a></li>
+                <li><a href="/solution.html">Solutions</a></li>
+                <li><a href="/turnkey.html">Turnkey</a></li>
+                <li><a href="/about.html">About Us</a></li>
+                <li style="float:right"><a href="/contact.html">Contact</a></li>
                 
 
             </ul>
