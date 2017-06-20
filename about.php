@@ -3,7 +3,7 @@
     <!--<link rel="stylesheet" type="text/css" href="marshclaud.github.io/styles.css" >
     <!--Testlink-->
     <link href="https://fonts.googleapis.com/css?family=Kanit" rel="stylesheet">
-        <styles>
+        <style>
             body {
   background-color: #FFF;
   
@@ -121,7 +121,7 @@ h2 {
 
 }
 
-        </styles>
+        </style>
     </head>
 
     <body>
