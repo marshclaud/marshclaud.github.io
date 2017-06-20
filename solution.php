@@ -130,12 +130,12 @@ h2 {
 
         <div id="topnav">
             <ul class="nav">
-                <li><a href="/index.html">Home</a></li>
-                <li><a href="/services.html">Services</a></li>
-                <li><a class="active" href="/solution.html">Solutions</a></li>
-                <li><a href="/turnkey.html">Turnkey</a></li>
-                <li><a href="/about.html">About Us</a></li>
-                <li style="float:right"><a href="/contact.html">Contact</a></li>
+                <li><a href="/index.php">Home</a></li>
+                <li><a href="/services.php">Services</a></li>
+                <li><a class="active" href="/solution.php">Solutions</a></li>
+                <li><a href="/turnkey.php">Turnkey</a></li>
+                <li><a href="/about.php">About Us</a></li>
+                <li style="float:right"><a href="/contact.php">Contact</a></li>
                 
 
             </ul>
