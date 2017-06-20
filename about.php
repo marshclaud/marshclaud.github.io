@@ -130,12 +130,12 @@ h2 {
 
         <div id="topnav">
             <ul class="nav">
-                <li><a href="marshclaud.github.io/index.php">Home</a></li>
-                <li><a href="marshclaud.github.io/services.php">Services</a></li>
-                <li><a href="marshclaud.github.io/solution.php">Solutions</a></li>
-                <li><a href="marshclaud.github.io/turnkey.php">Turnkey</a></li>
-                <li><a class="active" href="marshclaud.github.io/about.php">About Us</a></li>
-                <li style="float:right"><a href="marshclaud.github.io/contact.php">Contact</a></li>
+                <li><a href="/index.php">Home</a></li>
+                <li><a href="/services.php">Services</a></li>
+                <li><a href="/solution.php">Solutions</a></li>
+                <li><a href="/turnkey.php">Turnkey</a></li>
+                <li><a class="active" href="/about.php">About Us</a></li>
+                <li style="float:right"><a href="/contact.php">Contact</a></li>
                 
 
             </ul>
